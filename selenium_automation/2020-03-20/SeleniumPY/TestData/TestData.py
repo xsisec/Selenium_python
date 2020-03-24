@@ -1,0 +1,13 @@
+class TestData():
+    BASE_URL=""
+    ARROW_TRUCK_URL="http://13.81.27.105"
+    TEST_ENVIRONMENT_URL="http://52.157.79.23"
+    truck_title=""
+    truck_image=""
+    truck_price=""
+    truck_href=""
+    truck_location=""
+    truck_engine=""
+    truck_axle_config=""
+    truck_mileage=""
+    truck_reg_year=""
