@@ -10,6 +10,7 @@ import pytest
 import xmlrunner
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
+from xmlrunner import XMLTestRunner
 
 from Application.pageobjects.AboutUs_Page import About_Us_Page
 from Application.tests.TestSuite import test_cases
@@ -20,10 +21,8 @@ from utils.environments import StoreAppExample
 class Testpages(unittest.TestCase) :
 
     def setUp(self) :
-        global test_method_name
-        global dt_format
-        test_method_name = self._testMethodName
-        dt_format = '%Y%m%d_%H%M%S'
+
+
         self.driver = webdriver.Chrome()
         self.driver.maximize_window()
         base_url = StoreAppExample()
@@ -33,6 +32,7 @@ class Testpages(unittest.TestCase) :
         self.runner = xmlrunner.XMLTestRunner(output=self.stream, stream=self.fake_stream, elapsed_times=False)
 
     def test_page_load(self) :
+        global test_method_name
         test_method_name = self._testMethodName
         print("\n" + str(test_cases(0)))
         page = About_Us_Page(self.driver)
@@ -42,10 +42,20 @@ class Testpages(unittest.TestCase) :
         self.driver.close()
 
 
+
+
+
 if __name__ == "__main__" :
-    current_directory = os.getcwd()
+    #current_directory = os.getcwd()
     suite = unittest.TestLoader().loadTestsFromTestCase(Testpages)
-    xmlrunner.XMLTestRunner(output='../../Application/Reports/reports/').run(suite)
-    testRunner = xmlrunner.XMLTestRunner(output='test-reports')
+    #xmlrunner.XMLTestRunner(output='../../Application/Reports/reports/').run(suite)
+    #timestamp = time.strftime('%Y_%m_%d_%H_%M')
+    #file_name = 'Test_Report_' + test_method_name + '.xml'
+    #my_dir = "../../Application/Reports/reports/"
+    #result = XMLTestRunner(my_dir + file_name, "w")
+    #result.run(suite)
+
+
+   # testRunner = xmlrunner.XMLTestRunner(output='reports')
 
 

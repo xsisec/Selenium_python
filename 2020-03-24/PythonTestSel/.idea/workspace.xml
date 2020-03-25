@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3821090a-def2-4cee-bb36-88856cc7b691" name="Default Changelist" comment="" />
+    <list default="true" id="3821090a-def2-4cee-bb36-88856cc7b691" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SeleniumPythonPyTestWithXML_last/.idea/SeleniumPythonPyTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/PyTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/PyTest/.idea/PyTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/PyTest/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/PyTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/PyTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/PyTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/PyTest/Application/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/PyTest/Application/pageobjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/PyTest/Application/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/PyTest/utils/BaseTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/PyTest/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/SeleniumPythonPyTestWithXML/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-25/SeleniumPythonPyTestWithXML/Application/tests/Test_Report_2020_03_25_09_12.xml/TEST-Testpages-w.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumPyTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumPyTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2020-03-25/SeleniumPythonPyTestWithXML/.idea/SeleniumPythonPyTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2020-03-25/SeleniumPythonPyTestWithXML/.idea/SeleniumPythonPyTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2020-03-25/SeleniumPythonPyTestWithXML/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2020-03-25/SeleniumPythonPyTestWithXML/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2020-03-25/SeleniumPythonPyTestWithXML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2020-03-25/SeleniumPythonPyTestWithXML/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2020-03-25/SeleniumPythonPyTestWithXML/Application/pageobjects/AboutUs_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2020-03-25/SeleniumPythonPyTestWithXML/Application/pageobjects/AboutUs_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2020-03-25/SeleniumPythonPyTestWithXML/Application/tests/about_us_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2020-03-25/SeleniumPythonPyTestWithXML/Application/tests/about_us_test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +35,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1ZXDe6KEPWjX8N5FNXP2E8tW68D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2020-03-20/Selenium_automation2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../2020-03-20/Selenium_automation_Structured" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -140,9 +165,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2663" y="288" width="424" height="481" key="FileChooserDialogImpl" timestamp="1584982438374">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="743" y="282" width="424" height="481" key="FileChooserDialogImpl" timestamp="1585129741836">
+      <screen x="0" y="0" width="1920" height="1056" />
     </state>
+    <state x="743" y="282" key="FileChooserDialogImpl/0.0.1920.1056/1920.0.1920.1080@0.0.1920.1056" timestamp="1585129741836" />
     <state x="2663" y="288" width="424" height="481" key="FileChooserDialogImpl/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584982438374" />
     <state width="1900" height="284" key="GridCell.Tab.0.bottom" timestamp="1584984876037">
       <screen x="1920" y="0" width="1920" height="1080" />

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Testpages-w" tests="1" file=".py" time="9.423" timestamp="2020-03-25T09:12:49" failures="0" errors="1" skipped="0">
+	<testcase classname="Testpages" name="test_page_load" time="9.423" timestamp="2020-03-25T09:12:49" file="about_us_test.py" line="36">
+		<error type="Failed" message="&lt;Failed instance&gt;"><![CDATA[Traceback (most recent call last):
+  File "/home/xsisec/Documents/[GitKraken]/Selenium_python/2020-03-25/SeleniumPythonPyTestWithXML/Application/tests/about_us_test.py", line 40, in test_page_load
+    page.click_on_about_us()
+  File "/home/xsisec/Documents/[GitKraken]/Selenium_python/2020-03-25/SeleniumPythonPyTestWithXML/Application/pageobjects/AboutUs_Page.py", line 23, in click_on_about_us
+    pytest.fail()
+  File "/home/xsisec/Documents/[Jetbeans Projects]/#Pycharm/selenium_automation/venv/lib/python3.8/site-packages/_pytest/outcomes.py", line 113, in fail
+    raise Failed(msg=msg, pytrace=pytrace)
+Failed: <Failed instance>
+]]></error>
+		<system-out><![CDATA[
+['verify a user goes to main page, page should be loaded']
+]]></system-out>
+		<system-err><![CDATA[]]></system-err>
+	</testcase>
+</testsuite>

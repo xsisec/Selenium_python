@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fad17e71-62e4-476b-a323-1b330be2aecb" name="Default Changelist" comment="" />
+    <list default="true" id="fad17e71-62e4-476b-a323-1b330be2aecb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../2020-03-20/Selenium_automation_Structured/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-24/PythonTestSel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-24/SeleniumPyTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2020-03-24/SeleniumPythonPyTestWithXML_last/.idea/SeleniumPythonPyTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/.idea/PyTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/Application/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/Application/pageobjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/Application/pageobjects/results_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/Application/pageobjects/search_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/Application/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/Application/tests/test_web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/utils/BaseTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTest/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/.idea/PyTestPageObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/Application/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/Application/pageobjects/mainpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/Application/pageobjects/search_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/Application/tests/make_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/utils/BaseTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyTestPageObject/utils/environments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Application/tests/Test_Report_2020_03_25_09_12.xml/TEST-Testpages-w.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2020-03-20/Selenium_automation_Structured/.idea/Selenium_automation_Structured.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2020-03-20/Selenium_automation_Structured/.idea/Selenium_automation_Structured.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2020-03-20/Selenium_automation_Structured/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2020-03-20/Selenium_automation_Structured/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2020-03-20/Selenium_automation_Structured/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2020-03-20/Selenium_automation_Structured/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2020-03-24/PythonTestSel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2020-03-24/PythonTestSel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2020-03-24/SeleniumPyTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2020-03-24/SeleniumPyTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SeleniumPythonPyTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeleniumPythonPyTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/pageobjects/AboutUs_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Application/pageobjects/AboutUs_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/tests/about_us_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Application/tests/about_us_test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +58,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1ZZLiqtSlvc2Y7Xhx61dFdIslV1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -139,10 +192,10 @@
     <list>
       <item itemvalue="Python.about_us_test" />
       <item itemvalue="Python.TakeScreenShot" />
+      <item itemvalue="Python.AboutUs_Page" />
       <item itemvalue="Python tests.Unittests for Application.tests.about_us_test" />
       <item itemvalue="Python tests.Unittests for about_us_test.Testpages" />
       <item itemvalue="Python tests.Unittests for about_us_test.Testpages.test_page_load" />
-      <item itemvalue="Python.AboutUs_Page" />
     </list>
     <recent_temporary>
       <list>
@@ -167,6 +220,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2338" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585047115873">
       <screen x="1920" y="0" width="1920" height="1080" />
@@ -180,22 +236,26 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2612" y="317" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585047112519" />
-    <state width="1899" height="267" key="GridCell.Tab.0.bottom" timestamp="1585074629608">
+    <state x="2663" y="286" width="424" height="481" key="FileChooserDialogImpl" timestamp="1585129602911">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585074629608" />
-    <state width="1899" height="267" key="GridCell.Tab.0.center" timestamp="1585074629608">
+    <state x="2663" y="286" width="424" height="481" key="FileChooserDialogImpl/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585129602911" />
+    <state width="1899" height="148" key="GridCell.Tab.0.bottom" timestamp="1585129627537">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="267" key="GridCell.Tab.0.center/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585074629608" />
-    <state width="1899" height="267" key="GridCell.Tab.0.left" timestamp="1585074629608">
+    <state width="1899" height="148" key="GridCell.Tab.0.bottom/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585129627537" />
+    <state width="1899" height="148" key="GridCell.Tab.0.center" timestamp="1585129627537">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="267" key="GridCell.Tab.0.left/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585074629608" />
-    <state width="1899" height="267" key="GridCell.Tab.0.right" timestamp="1585074629608">
+    <state width="1899" height="148" key="GridCell.Tab.0.center/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585129627537" />
+    <state width="1899" height="148" key="GridCell.Tab.0.left" timestamp="1585129627537">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="267" key="GridCell.Tab.0.right/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585074629608" />
+    <state width="1899" height="148" key="GridCell.Tab.0.left/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585129627537" />
+    <state width="1899" height="148" key="GridCell.Tab.0.right" timestamp="1585129627537">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="148" key="GridCell.Tab.0.right/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585129627537" />
     <state width="1899" height="332" key="GridCell.Tab.1.bottom" timestamp="1585069289983">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -212,17 +272,17 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="332" key="GridCell.Tab.1.right/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585069289983" />
-    <state x="2384" y="166" width="1284" height="764" key="SettingsEditor" timestamp="1585047857729">
+    <state x="2384" y="166" width="1284" height="764" key="SettingsEditor" timestamp="1585123040138">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2384" y="166" width="1284" height="764" key="SettingsEditor/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585047857729" />
+    <state x="2384" y="166" width="1284" height="764" key="SettingsEditor/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585123040138" />
     <state x="2533" y="148" width="728" height="761" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585069235666">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2533" y="148" width="728" height="761" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585069235666" />
-    <state x="2543" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1585058091513">
+    <state x="2543" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1585124654481">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2543" y="234" width="672" height="678" key="search.everywhere.popup/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585058091513" />
+    <state x="2543" y="234" width="672" height="678" key="search.everywhere.popup/0.0.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585124654481" />
   </component>
 </project>

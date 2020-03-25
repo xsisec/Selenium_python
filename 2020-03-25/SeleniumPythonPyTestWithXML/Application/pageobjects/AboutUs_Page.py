@@ -19,7 +19,7 @@ class About_Us_Page(Page) :
 
     def click_on_about_us(self) :
         self.find_element(*self.AboutUsPageLocator.about_us_footer_btn).click()
-        time.sleep(4)
+        time.sleep(2)
         pytest.fail()
 
 
