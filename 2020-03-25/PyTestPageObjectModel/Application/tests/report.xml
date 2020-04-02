@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="d0m" name="pytest" skipped="0" tests="1" time="4.998" timestamp="2020-03-26T11:31:00.755797"><testcase classname="firsttest" file="firsttest.py" line="6" name="test_make_search" time="4.948"></testcase></testsuite></testsuites>
